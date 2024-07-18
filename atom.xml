@@ -4,16 +4,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">PanのBlog</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2024-07-18T23:21:44&#43;08:00</updated>
-    <id>https://LiangxuanPan.github.io/</id>
-    <link rel="alternate" type="text/html" href="https://LiangxuanPan.github.io/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://LiangxuanPan.github.io/atom.xml" />
+    <updated>2024-07-18T23:39:47&#43;08:00</updated>
+    <id>http://localhost:1313/</id>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/" />
+    <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/atom.xml" />
     <author>
             <name>潘良选</name>
-            <uri>https://LiangxuanPan.github.io/</uri>
+            <uri>http://localhost:1313/</uri>
             
                 <email>panliangxuan367@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.129.0">Hugo</generator>
+        <entry>
+            <title type="text">Hello Hugo</title>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/0718_blog/" />
+            <id>http://localhost:1313/posts/0718_blog/</id>
+            <updated>2024-07-18T20:01:35&#43;08:00</updated>
+            <published>2024-07-18T19:57:14&#43;08:00</published>
+            <author>
+                    <name>潘良选</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>panliangxuan367@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">这是我的第一篇博客，欢迎光临！Welcome to PanのBlog</summary>
+            
+                <content type="html">&lt;h2 id=&#34;这是我的第一篇博客欢迎光临welcome-to-panのblog&#34;&gt;这是我的第一篇博客，欢迎光临！Welcome to PanのBlog&lt;/h2&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
 </feed>
