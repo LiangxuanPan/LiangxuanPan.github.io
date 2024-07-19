@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>PanのBlog</title>
-        <link>https://LiangxuanPan.github.io/</link>
+        <link>http://localhost:1313/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.129.0 https://gohugo.io/</generator>
         
@@ -23,10 +23,35 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Fri, 19 Jul 2024 14:42:02 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 14:54:35 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://LiangxuanPan.github.io/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="http://localhost:1313/rss.xml" />
         
+        
+            <item>
+                <title>Hello Hugo</title>
+                <link>http://localhost:1313/posts/0718_blog/</link>
+                <guid isPermaLink="true">http://localhost:1313/posts/0718_blog/</guid>
+                <pubDate>Thu, 18 Jul 2024 19:57:14 &#43;0800</pubDate>
+                
+                    <author>panliangxuan367@gmail.com (潘良选)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h2 id=&#34;这是我的第一篇博客欢迎光临welcome-to-panのblog&#34;&gt;这是我的第一篇博客，欢迎光临！Welcome to PanのBlog&lt;/h2&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
     </channel>
 </rss>
