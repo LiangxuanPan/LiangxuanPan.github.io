@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>PanのBlog</title>
-        <link>http://localhost:1313/</link>
+        <link>https://LiangxuanPan.github.io/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.140.1 https://gohugo.io/</generator>
         
@@ -23,15 +23,39 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Thu, 26 Dec 2024 16:25:27 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 14:06:24 &#43;0000</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="http://localhost:1313/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://LiangxuanPan.github.io/rss.xml" />
         
         
             <item>
+                <title>Articles02</title>
+                <link>https://LiangxuanPan.github.io/posts/articles02/</link>
+                <guid isPermaLink="true">https://LiangxuanPan.github.io/posts/articles02/</guid>
+                <pubDate>Thu, 26 Dec 2024 22:01:38 &#43;0800</pubDate>
+                
+                    <author>panliangxuan367@gmail.com (Liangxuan Pan)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                <description>&lt;p&gt;Hello 这是我的博客的第二篇文章&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
                 <title>Articles01</title>
-                <link>http://localhost:1313/posts/articles01/</link>
-                <guid isPermaLink="true">http://localhost:1313/posts/articles01/</guid>
+                <link>https://LiangxuanPan.github.io/posts/articles01/</link>
+                <guid isPermaLink="true">https://LiangxuanPan.github.io/posts/articles01/</guid>
                 <pubDate>Thu, 26 Dec 2024 11:11:12 &#43;0800</pubDate>
                 
                     <author>panliangxuan367@gmail.com (Liangxuan Pan)</author>
