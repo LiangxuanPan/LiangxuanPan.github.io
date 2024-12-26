@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>PanのBlog</title>
+        <link>http://localhost:1313/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <generator>Hugo 0.140.1 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>panliangxuan367@gmail.com (Liangxuan Pan)</managingEditor>
+        
+        
+            <webMaster>panliangxuan367@gmail.com (Liangxuan Pan)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Thu, 26 Dec 2024 16:25:27 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="http://localhost:1313/rss.xml" />
+        
+        
+            <item>
+                <title>Articles01</title>
+                <link>http://localhost:1313/posts/articles01/</link>
+                <guid isPermaLink="true">http://localhost:1313/posts/articles01/</guid>
+                <pubDate>Thu, 26 Dec 2024 11:11:12 &#43;0800</pubDate>
+                
+                    <author>panliangxuan367@gmail.com (Liangxuan Pan)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                <description>&lt;p&gt;Hello 这是我的博客的第一篇文章&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
