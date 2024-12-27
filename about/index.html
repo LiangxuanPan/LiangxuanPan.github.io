@@ -17,12 +17,12 @@
 
     <title>about | PanのBlog</title>
 
-    <link rel="stylesheet" href="/css/meme.min.5c540b2baba2dc64db0ae46a885cd6e4614c3a72607050751131d1572ada3942.css"/>
+    <link rel="stylesheet" href="/css/meme.min.d1dddfd098e2a27fda428ed7be78c43b9b42e69a7d535906529294ff954efe1c.css"/>
 
     
     
         
-            <script src="/js/meme.min.93caf51ca41a6ed5e468d2ac73c7cdfe253a756a2192255cf28aaa8da5ea4209.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2/dist/instantsearch.min.js" defer></script><script src="/js/meme.min.91c2aada70b93c3bfa2b377de20d4cf161ba5ba8b9f31852290aea564da109c5.js"></script>
 
         
     
@@ -59,7 +59,7 @@
         "@context": "https://schema.org",
         "@type": "WebPage",
         "datePublished": "2024-12-26T11:16:36+08:00",
-        "dateModified": "2024-12-26T14:17:31+00:00",
+        "dateModified": "2024-12-27T02:38:50+00:00",
         "url": "https://LiangxuanPan.github.io/about/",
         "name": "about",
         "description": "MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。",
@@ -166,6 +166,23 @@
             
         
             
+                <li class="menu-item search-item">
+                        <form id="search" class="search" role="search">
+    <label for="search-input"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon search-icon"><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg></label>
+    <input type="search" id="search-input" class="search-input">
+</form>
+
+<template id="search-result" hidden>
+    <article class="content post">
+        <h2 class="post-title"><a class="summary-title-link"></a></h2>
+        <summary class="summary"></summary>
+        <div class="read-more-container">
+            <a class="read-more-link">阅读更多 »</a>
+        </div>
+    </article>
+</template>
+
+                    </li>
                 
             
         
