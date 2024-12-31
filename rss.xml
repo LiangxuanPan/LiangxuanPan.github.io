@@ -23,10 +23,37 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 31 Dec 2024 13:03:00 &#43;0000</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 15:54:23 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://LiangxuanPan.github.io/rss.xml" />
         
+        
+            <item>
+                <title>2024年总结</title>
+                <link>https://LiangxuanPan.github.io/posts/2024%E5%B9%B4%E6%80%BB%E7%BB%93/</link>
+                <guid isPermaLink="true">https://LiangxuanPan.github.io/posts/2024%E5%B9%B4%E6%80%BB%E7%BB%93/</guid>
+                <pubDate>Tue, 31 Dec 2024 23:30:00 &#43;0800</pubDate>
+                
+                    <author>panliangxuan367@gmail.com (Liangxuan Pan)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                <description>&lt;p&gt;2024，去他妈的！这一年让人感到疲惫、失望、还有无尽的挑战。
+回头看看，似乎每一步都在为明天的困境做铺垫，仿佛无论怎么努力，问题总是层出不穷。
+但现在，终于可以摆脱它，甩开所有不顺利的过去，迎接一个新的开始。
+2025，我来了！希望这一年，能彻底翻篇，走得更远，过得更好！&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Cox比例风险模型</title>
@@ -37,9 +64,12 @@
                     <author>panliangxuan367@gmail.com (Liangxuan Pan)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                <description>&lt;p&gt;Cox比例风险模型（Cox Proportional Hazards Model）是一种广泛应用于生存分析的统计方法。它可以用来分析个体的生存时间与一个或多个预测变量（协变量）之间的关系，并估计危险比（hazard ratio），即协变量变化时事件发生的风险如何变化。&lt;/p&gt;
+                <description>&lt;p&gt;Cox比例风险模型（Cox Proportional Hazards Model）是一种广泛应用于生存分析的统计方法。
+它可以用来分析个体的生存时间与一个或多个预测变量（协变量）之间的关系，并估计危险比（hazard ratio），
+即协变量变化时事件发生的风险如何变化。&lt;/p&gt;
 &lt;h3 id=&#34;什么是cox比例风险模型&#34;&gt;&lt;a href=&#34;https://LiangxuanPan.github.io/posts/cox%E6%AF%94%E4%BE%8B%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B/#什么是cox比例风险模型&#34; class=&#34;anchor-link&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;a href=&#34;https://LiangxuanPan.github.io/posts/cox%E6%AF%94%E4%BE%8B%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B/#contents:什么是cox比例风险模型&#34; class=&#34;headings&#34;&gt;什么是Cox比例风险模型？&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Cox比例风险模型是一种半参数模型，这意味着它不像完全参数化模型那样需要对基准风险函数（baseline hazard function）进行明确假设。Cox模型假设在任何时刻 ttt，个体的风险函数是基准风险函数与协变量的相对风险的乘积。简而言之，模型将风险分解为两部分：&lt;/p&gt;
+&lt;p&gt;Cox比例风险模型是一种半参数模型，这意味着它不像完全参数化模型那样需要对基准风险函数（baseline hazard function）进行明确假设。
+Cox模型假设在任何时刻，个体的风险函数是基准风险函数与协变量的相对风险的乘积。简而言之，模型将风险分解为两部分：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;基准风险函数&lt;/strong&gt;：当所有协变量都为零（或其参考水平）时的风险。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;相对风险&lt;/strong&gt;：协变量对风险函数的影响，以乘法因子的形式表达。&lt;/li&gt;
