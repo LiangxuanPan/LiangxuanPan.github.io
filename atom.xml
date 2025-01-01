@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">PanのBlog</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2025-01-01T05:27:23&#43;00:00</updated>
+    <updated>2025-01-01T05:37:35&#43;00:00</updated>
     <id>https://LiangxuanPan.github.io/</id>
     <link rel="alternate" type="text/html" href="https://LiangxuanPan.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://LiangxuanPan.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">2024年总结</title>
             <link rel="alternate" type="text/html" href="https://LiangxuanPan.github.io/posts/2024%E5%B9%B4%E6%80%BB%E7%BB%93/" />
             <id>https://LiangxuanPan.github.io/posts/2024%E5%B9%B4%E6%80%BB%E7%BB%93/</id>
-            <updated>2025-01-01T05:27:22&#43;00:00</updated>
+            <updated>2025-01-01T05:37:33&#43;00:00</updated>
             <published>2024-12-31T23:30:00&#43;08:00</published>
             <author>
                     <name>Liangxuan Pan</name>
@@ -60,7 +60,7 @@
             <title type="text">Cox比例风险模型</title>
             <link rel="alternate" type="text/html" href="https://LiangxuanPan.github.io/posts/cox%E6%AF%94%E4%BE%8B%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B/" />
             <id>https://LiangxuanPan.github.io/posts/cox%E6%AF%94%E4%BE%8B%E9%A3%8E%E9%99%A9%E6%A8%A1%E5%9E%8B/</id>
-            <updated>2025-01-01T05:27:22&#43;00:00</updated>
+            <updated>2025-01-01T05:37:33&#43;00:00</updated>
             <published>2024-12-31T13:10:59&#43;08:00</published>
             <author>
                     <name>Liangxuan Pan</name>
@@ -120,7 +120,7 @@ $$
             <title type="text">Articles03</title>
             <link rel="alternate" type="text/html" href="https://LiangxuanPan.github.io/posts/articles03/" />
             <id>https://LiangxuanPan.github.io/posts/articles03/</id>
-            <updated>2025-01-01T05:27:22&#43;00:00</updated>
+            <updated>2025-01-01T05:37:33&#43;00:00</updated>
             <published>2024-12-26T22:10:59&#43;08:00</published>
             <author>
                     <name>Liangxuan Pan</name>
@@ -164,7 +164,7 @@ $$
             <title type="text">Articles02</title>
             <link rel="alternate" type="text/html" href="https://LiangxuanPan.github.io/posts/articles02/" />
             <id>https://LiangxuanPan.github.io/posts/articles02/</id>
-            <updated>2025-01-01T05:27:22&#43;00:00</updated>
+            <updated>2025-01-01T05:37:33&#43;00:00</updated>
             <published>2024-12-26T22:01:38&#43;08:00</published>
             <author>
                     <name>Liangxuan Pan</name>
@@ -192,7 +192,7 @@ $$
             <title type="text">Articles01</title>
             <link rel="alternate" type="text/html" href="https://LiangxuanPan.github.io/posts/articles01/" />
             <id>https://LiangxuanPan.github.io/posts/articles01/</id>
-            <updated>2025-01-01T05:27:22&#43;00:00</updated>
+            <updated>2025-01-01T05:37:33&#43;00:00</updated>
             <published>2024-12-26T11:11:12&#43;08:00</published>
             <author>
                     <name>Liangxuan Pan</name>
