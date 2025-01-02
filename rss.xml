@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Thu, 02 Jan 2025 09:07:29 &#43;0000</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 09:12:46 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://LiangxuanPan.github.io/rss.xml" />
         
@@ -122,6 +122,26 @@ $$
                         
                     
                         
+                            
+                                
+                                
+                                
+                                    <category domain="https://LiangxuanPan.github.io/tags/hugo/">Hugo</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://LiangxuanPan.github.io/tags/blog/">Blog</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://LiangxuanPan.github.io/tags/meme/">MemE</category>
+                                
+                            
+                        
                     
                 
             </item>
@@ -162,6 +182,20 @@ $$
                         
                     
                         
+                            
+                                
+                                
+                                
+                                    <category domain="https://LiangxuanPan.github.io/tags/hugo/">Hugo</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://LiangxuanPan.github.io/tags/python/">Python</category>
+                                
+                            
+                        
                     
                 
             </item>
@@ -193,6 +227,26 @@ $$
                             
                         
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://LiangxuanPan.github.io/tags/hugo/">Hugo</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://LiangxuanPan.github.io/tags/python/">Python</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://LiangxuanPan.github.io/tags/ideal/">理想</category>
+                                
+                            
                         
                     
                 
@@ -230,6 +284,14 @@ Hugo, Blog, MemE&lt;/p&gt;
                             
                         
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://LiangxuanPan.github.io/tags/hugo/">Hugo</category>
+                                
+                            
                         
                     
                 
