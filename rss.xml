@@ -9,7 +9,7 @@
     <channel>
         <title>PanのBlog</title>
         <link>https://LiangxuanPan.github.io/</link>
-        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <description>Liangxuan Pan&#39;s Blog</description>
         <generator>Hugo 0.140.2 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Thu, 02 Jan 2025 04:40:22 &#43;0000</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 05:27:08 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://LiangxuanPan.github.io/rss.xml" />
         
